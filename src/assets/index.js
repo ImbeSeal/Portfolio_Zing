@@ -27,7 +27,7 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import starbucks from "./company/starbucks.jpg";
 import tesla from "./company/tesla.png";
 
 import hiregrad from "./carrent.png";
