@@ -145,11 +145,7 @@ const experiences = [
     icon: tesla,
     iconBg: "#383E56",
     date: "March 2022",
-    points: [
-      "As a naive beginner, I was looking for things to learn and create",
-      "Like all the people around me, I thought of exploring the various realms of",
-      "As a naive beginner, I was looking for things to learn and create",
-    ],
+    points: ["Preparing...", "Work in progress..."],
   },
 ];
 
