@@ -29,6 +29,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.jpg";
 import tesla from "./company/tesla.png";
+import ienitk from "./company/IENITK.png";
+import nitk from "./company/NITK.png";
 
 import hiregrad from "./carrent.png";
 import jobit from "./algosim.png";
@@ -64,7 +66,9 @@ export {
   shopify,
   starbucks,
   tesla,
+  ienitk,
   hiregrad,
   jobit,
+  nitk,
   tripguide,
 };

@@ -6,6 +6,7 @@ import {
   web,
   github,
   menu,
+  nitk,
   close,
   cee,
   cpp,
@@ -17,6 +18,7 @@ import {
   css,
   git,
   html,
+  ienitk,
   javascript,
   mongodb,
   nodejs,
@@ -141,11 +143,27 @@ const technologies = [
 const experiences = [
   {
     title: "Beginning of my Journey",
-    company_name: "",
-    icon: tesla,
+    company_name: "NITK",
+    icon: nitk,
+    iconBg: "#383E56",
+    date: "December-2021",
+    points: [
+      "Joined as a fresher in ECE",
+      "Dabbled into various technologies",
+      "Explored domains in both Hardware in Software",
+    ],
+  },
+  {
+    title: "First exposure to a work environment",
+    company_name: "IE NITK",
+    icon: ienitk,
     iconBg: "#383E56",
     date: "March 2022",
-    points: ["Preparing...", "Work in progress..."],
+    points: [
+      "Selected into IT NITK though a series of interviews",
+      "Applied myself along wiwth a few others into making my very first complete application.",
+      "Dived deeper into Web Technologies, Data Sctructures and Algorithms, Machine Learning",
+    ],
   },
 ];
 
